@@ -1,0 +1,13 @@
+0 - cuenta testlodge	4	/	4	
+1 - introducción ( 7 ppipios)	4	/	4	
+2 - tipos pruebas esquema / definicion tipos (1 diapo por cada) / coste prueba por nivel/ coste por fase	8	/	8	
+3 - definicion / principios /ventajas 	6	/	6	
+4 - plan pruebas	6	/	6	
+5 - doc requisitos	4	/	4	
+6 - unitarias	16	/	18	las pruebas de añadir jugador y equipo están correctas y muy completas. De asignar equipo no quedan muy claros algunos casos, porque valor limite -100? bastaría con probar el campo equipo, con los valores, vacío, uno equipo existente y uno que no exista, y lo mismo con jugador.
+7 - aceptación	14	/	15	las de aceptación de añadir jugador y equipo están completas y muy bien descriptas. De asignar equipo al igual que el anterior, me faltarían los casos de probar que el equipo exista o no previamente.
+8 - regresión	11	/	12	las pruebas están bien elegidas, únicamente habría que elegir bien las de asignar equipo, las otras dos están bien.
+9 - implementación formularios	15	/	15	
+10 - proyecto java	5	/	6	está correcto, pero debería de haberse creado un proyecto aparte no ir dentro del html
+11 - ejecución pruebas	12	/	12	está correcto, y está bien las marcadas como fallidas porque no muestran el error esperado. Buen trabajo.
+total	105	/	110	
